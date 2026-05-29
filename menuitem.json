@@ -1,0 +1,12 @@
+[
+{"item_id": 201, "item_name": "Margherita Pizza", "category": "Pizza", "price": 299, "cost": 120, "veg": true},
+{"item_id": 202, "item_name": "Pepperoni Pizza", "category": "Pizza", "price": 399, "cost": 180, "veg": false},
+{"item_id": 203, "item_name": "Garlic Bread", "category": "Starters", "price": 149, "cost": 60, "veg": true},
+{"item_id": 204, "item_name": "French Fries", "category": "Starters", "price": 129, "cost": 50, "veg": true},
+{"item_id": 205, "item_name": "Chicken Wings", "category": "Starters", "price": 249, "cost": 120, "veg": false},
+{"item_id": 206, "item_name": "Pasta Alfredo", "category": "Main Course", "price": 349, "cost": 150, "veg": true},
+{"item_id": 207, "item_name": "Chicken Burger", "category": "Burgers", "price": 199, "cost": 90, "veg": false},
+{"item_id": 208, "item_name": "Veg Burger", "category": "Burgers", "price": 149, "cost": 70, "veg": true},
+{"item_id": 209, "item_name": "Cold Drink", "category": "Beverages", "price": 49, "cost": 20, "veg": true},
+{"item_id": 210, "item_name": "Ice Cream", "category": "Desserts", "price": 99, "cost": 40, "veg": true}
+]
